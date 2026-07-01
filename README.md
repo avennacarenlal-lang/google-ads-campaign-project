@@ -1,5 +1,8 @@
 # Google Ads Campaign Project
 
+## Project Summary
+This project demonstrates the end‑to‑end process of planning, creating, and analyzing a Google Search Ads campaign. It includes campaign setup files, performance metrics, and visual insights that highlight improvements in CTR, conversions, and cost efficiency. The goal is to showcase practical marketing analytics skills and data‑driven decision making.
+
 ## Overview
 This project demonstrates the process of planning, creating, and analyzing a Google Search Ads campaign.  
 It includes keyword research, ad copy drafts, and performance analysis.
@@ -24,3 +27,12 @@ It includes keyword research, ad copy drafts, and performance analysis.
 ![CTR Trend](assets/ctr_trend.png)
 ![Conversions Bar Chart](assets/conversions_bar.png)
 ![CPC Trend](assets/cpc_trend.png)
+
+## Roadmap
+✅ Phase 1: Campaign Planning – Defined objectives, keywords, and targeting strategy
+
+✅ Phase 2: Campaign Creation – Structured ad groups and copywriting
+
+✅ Phase 3: Performance Analysis – Collected metrics, generated charts, and interpreted insights
+
+🔜 Phase 4: Automation & Dashboard Integration – Build a live dashboard for continuous monitoring
