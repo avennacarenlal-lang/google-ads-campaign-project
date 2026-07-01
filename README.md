@@ -36,3 +36,12 @@ It includes keyword research, ad copy drafts, and performance analysis.
 ✅ Phase 3: Performance Analysis – Collected metrics, generated charts, and interpreted insights
 
 🔜 Phase 4: Automation & Dashboard Integration – Build a live dashboard for continuous monitoring
+
+## Folder Guide
+- plan/ → Keyword research and campaign planning
+- create/ → Draft ad copy and creatives
+- analysis/ → Performance tracking and reports
+- data/ → Raw campaign metrics
+- assets/ → Charts and images
+- scripts/ → Automation scripts
+- docs/ → Documentation and reports
