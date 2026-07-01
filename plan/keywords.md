@@ -2,17 +2,23 @@ Keyword research notes
 ## Keyword Research Notes
 
 ### Core Campaign Keywords
-- "MBA preparation course"
-- "Google Ads training"
-- "Digital marketing certification"
-- "Conversion rate optimization"
+- "MBA preparation course online"
+- "Google Ads campaign training"
+- "Digital marketing certification India"
+- "Conversion optimization strategies"
 
 ### Long‑Tail Keywords
-- "affordable MBA prep classes online"
-- "best digital marketing course for beginners"
-- "how to improve CTR in ads"
+-  "affordable MBA prep classes with scholarship"
+- "best Google Ads course for beginners"
+- "step by step guide to improve CTR"
+- "ROI focused digital marketing program"
 
 ### Negative Keywords
-- "free courses"
-- "unrelated jobs"
-- "non‑MBA programs"
+- "free tutorials"
+- "jobs without MBA"
+- "unrelated diploma courses"
+
+### Keyword Grouping
+- **Education Focused**: MBA prep, certification, training
+- **Performance Focused**: CTR improvement, conversion optimization
+- **Cost Focused**: affordable, scholarship, ROI

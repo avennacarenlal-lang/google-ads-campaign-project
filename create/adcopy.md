@@ -1,17 +1,17 @@
-## Draft Ad Copy
+## Ad Copy Drafts (A/B Testing)
 
-### Headline Ideas
-- "Boost Your Career with MBA Prep"
-- "Master Google Ads Today"
-- "Achieve Higher Conversions Fast"
+### Version A
+**Headline:** Boost Your Career with MBA Prep  
+**Description:** Join our expert‑led program and gain practical skills in Google Ads and digital marketing.  
+**CTA:** Sign Up Now
 
-### Description Lines
-- "Join our expert‑led program and gain practical skills."
-- "Learn proven strategies to maximize ROI."
-- "Enroll now and take the next step in your career."
+### Version B
+**Headline:** Master Google Ads Today  
+**Description:** Learn proven strategies to maximize ROI and secure your MBA success.  
+**CTA:** Start Learning Today
 
-### Call‑to‑Action
-- "Sign Up Now"
-- "Start Learning Today"
-- "Get Certified"
+### Version C
+**Headline:** Achieve Higher Conversions Fast  
+**Description:** Enroll now to access hands‑on projects, keyword research, and campaign analysis.  
+**CTA:** Get Certified
 
